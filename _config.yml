@@ -65,4 +65,4 @@ markdown: kramdown
 permalink: pretty
 
 #Theme
-remote-theme: agency 
+remote-theme: Agency 
